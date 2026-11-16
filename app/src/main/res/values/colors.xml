@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Базовые -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#1A1A1A</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray_text">#6B6B6B</color>
+
+    <!-- Ментальное здоровье — зелёный -->
+    <color name="mental_primary">#071421</color>     <!-- основной -->
+    <color name="mental_light">#00CF00</color>       <!-- фон -->
+
+    <!-- Спорт — розовый -->
+    <color name="sport_primary">#071421</color>
+    <color name="sport_light">#fe019a</color>
+
+    <!-- Карьера — жёлтый -->
+    <color name="career_primary">#071421</color>
+    <color name="career_light">#FFFF00</color>
+</resources>

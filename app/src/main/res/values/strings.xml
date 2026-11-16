@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Track</string>
+    <string name="greeting">Привет!</string>
+    <string name="choose_direction">Выбери направление</string>
+
+    <string name="mental_title">Ментальное здоровье</string>
+    <string name="mental_subtitle">Забота о себе</string>
+
+    <string name="sport_title">Спорт</string>
+    <string name="sport_subtitle">Тренировки и здоровье</string>
+
+    <string name="career_title">Карьера</string>
+    <string name="career_subtitle">Рост и развитие</string>
+</resources>
